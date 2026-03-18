@@ -1,0 +1,15 @@
+pandas
+numpy
+scikit-learn
+xgboost
+fastapi
+uvicorn
+streamlit
+geopandas
+shapely
+folium
+requests
+openai
+faiss-cpu
+sentence-transformers
+joblib
